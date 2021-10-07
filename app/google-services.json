@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "968562005723",
+    "project_id": "loginexamenfirebase",
+    "storage_bucket": "loginexamenfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968562005723:android:e2103aba2c877fa2f25efe",
+        "android_client_info": {
+          "package_name": "com.example.examalisonfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968562005723-sgikmj6dp0pe1o259aff33fehjicq77q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWPsbcDR_w9d9nXTLQy3IFsng_iRMANIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968562005723-sgikmj6dp0pe1o259aff33fehjicq77q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968562005723:android:3abf0ad1cbc70339f25efe",
+        "android_client_info": {
+          "package_name": "com.example.examen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968562005723-sgikmj6dp0pe1o259aff33fehjicq77q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWPsbcDR_w9d9nXTLQy3IFsng_iRMANIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968562005723-sgikmj6dp0pe1o259aff33fehjicq77q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
